@@ -1,1 +1,3 @@
-# skills_claude_code
+# Skills Claude Code
+
+Este repositório reúne minhas skills para o Claude Code.
